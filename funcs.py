@@ -9,3 +9,8 @@ def confirmation(agenda, numero, situacao):
         if agenda[c][1] == numero:
             agenda[c].append(situacao)
             break
+
+def show_register(agenda, numero):
+    for c in range(0, len(agenda)):
+        if agenda[c][1] == numero:
+            print(f'Nome: {agenda[c][0]}, Numero: {agenda[c][1]}')

@@ -3,7 +3,8 @@ import funcs
 perguntas = {
     1:'Agendar',
     2:'Cancelar',
-    3:'Confirmar'
+    3:'Confirmar',
+    4:'Mostrar Registrados'
 }
 agendados = []
 esl = ''
@@ -26,4 +27,5 @@ while esl != 4:
         funcs.confirmation(agendados, num, sit)
 
     elif esl == 5:
-        pass
+        num = str(input('Digite seu numero para verificar o registro: ')).strip()
+        funcs.show_register(agendados, num)
