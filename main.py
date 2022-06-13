@@ -24,3 +24,6 @@ while esl != 4:
         num = str(input('Digite seu numero: '))
         sit = str(input('Qual sua situação?:  '))
         funcs.confirmation(agendados, num, sit)
+
+    elif esl == 5:
+        pass
