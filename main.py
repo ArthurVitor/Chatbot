@@ -12,7 +12,7 @@ esl = ''
 for c in perguntas.keys(): #Mostra as opções
     print(f'{c}: {perguntas[c]}')
 
-while esl != 4:
+while esl != 5:
     esl = int(input('Escolha uma das opções: '))
     if esl == 1:
         agendados.append(str(input('Precisaremos de alguns dados seus, digite seu nome e numero separadamente: ')).split())
@@ -26,6 +26,6 @@ while esl != 4:
         sit = str(input('Qual sua situação?:  '))
         funcs.confirmation(agendados, num, sit)
 
-    elif esl == 5:
+    elif esl == 4:
         num = str(input('Digite seu numero para verificar o registro: ')).strip()
         funcs.show_register(agendados, num)
