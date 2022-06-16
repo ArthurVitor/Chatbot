@@ -16,7 +16,6 @@ while esl != 5:
     esl = int(input('Escolha uma das opções: '))
     if esl == 1:
         agendados.append(str(input('Precisaremos de alguns dados seus, digite seu nome e numero separadamente: ')).split())
-        agendados.append('Des')
 
     elif esl == 2:
         funcs.cancel(agendados, numero=str(input('Digite seu numero: ')))
@@ -28,4 +27,4 @@ while esl != 5:
 
     elif esl == 4:
         num = str(input('Digite seu numero para verificar o registro: ')).strip()
-        funcs.show_register(agendados, num)
+        print(funcs.show_register(agendados, num))
