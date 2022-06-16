@@ -19,7 +19,7 @@ while esl != 5:
 
     elif esl == 2:
         funcs.cancel(agendados, numero=str(input('Digite seu numero: ')))
-
+###dwadwa
     elif esl == 3:
         num = str(input('Digite seu numero: '))
         sit = str(input('Qual sua situação?:  '))
