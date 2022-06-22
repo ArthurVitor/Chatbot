@@ -10,10 +10,9 @@ mydb = mysql.connector.connect(
 )
 
 def read_file(file):
-    '''Reads Whatsapp text file into a list of strings'''
-    x = open(file,'r', encoding = 'utf-8') #Opens the text file into variable x but the variable cannot be explored yet
-    y = x.read() #By now it becomes a huge chunk of string that we need to separate line by line
-    content = y.splitlines() #The splitline method converts the chunk of string into a list of strings
+    x = open(file,'r', encoding = 'utf-8')
+    y = x.read()
+    content = y.splitlines()
     return content
 
 chat = read_file('Chats/Conversa do WhatsApp com Ravel.txt')

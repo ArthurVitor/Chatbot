@@ -1,0 +1,422 @@
+08/07/2021 18:02 - As mensagens e as chamadas são protegidas com a criptografia de ponta a ponta e ficam somente entre você e os participantes desta conversa. Nem mesmo o WhatsApp pode ler ou ouvi-las. Toque para saber mais.
+08/07/2021 18:02 - Arthur VGN: localização em tempo real compartilhada
+
+08/07/2021 18:16 - Arthur VGN: Avisa ai que a gente chegou
+08/07/2021 18:16 - Ravel: Tá
+23/08/2021 15:42 - Arthur VGN: O ravel, posso formatar o note? Ou tem algum arquivo que tu queira?
+23/08/2021 15:42 - Ravel: Pode
+23/08/2021 15:42 - Ravel: Manda bala
+23/08/2021 15:46 - Arthur VGN: blz
+26/09/2021 15:54 - Arthur VGN: Cheguei
+26/09/2021 16:19 - Ravel: Beleza
+10/11/2021 20:23 - Arthur VGN: <Arquivo de mídia oculto>
+10/11/2021 20:23 - Arthur VGN: <Arquivo de mídia oculto>
+10/11/2021 20:23 - Arthur VGN: Tipo é a mesma variavel, só que ele n deixa eu mexer nela
+10/11/2021 20:54 - Ravel: A variável tá fora do escopo
+10/11/2021 20:54 - Ravel: Tu tem que definir vida
+10/11/2021 20:55 - Ravel: Tu tem que receber ela no método
+10/11/2021 20:55 - Ravel: Pra ela entrar no escopo
+10/11/2021 20:58 - Arthur VGN: consegui
+10/11/2021 20:58 - Arthur VGN: tinha que chamar ela como global
+10/11/2021 20:59 - Ravel: Tbm serve
+11/11/2021 11:01 - Ravel: oia ai
+11/11/2021 11:01 - Ravel: pra tu fazer os jogos
+11/11/2021 11:01 - Arthur VGN: oq
+11/11/2021 11:01 - Ravel: <Arquivo de mídia oculto>
+11/11/2021 11:01 - Ravel: Python gamming
+11/11/2021 11:01 - Ravel: os cara ensinam a fazer uma penca de jogos ai
+11/11/2021 11:01 - Arthur VGN: chegou em boa
+11/11/2021 11:02 - Arthur VGN: chegou em bora hora*
+11/11/2021 11:02 - Arthur VGN: tava procurando algo assim ontem
+11/11/2021 11:02 - Arthur VGN: vlw
+11/11/2021 11:02 - Ravel: kkkk
+11/11/2021 11:02 - Ravel: imaginei
+11/11/2021 11:02 - Ravel: vi aquela parada de vida
+11/11/2021 11:02 - Arthur VGN: jogo da vida?
+11/11/2021 11:02 - Ravel: s
+11/11/2021 11:02 - Ravel: deve ter
+11/11/2021 11:02 - Ravel: tem o cocos invaders
+11/11/2021 11:02 - Ravel: a nave tem life
+11/11/2021 11:02 - Ravel: deve ter algo desse tipo ai
+11/11/2021 11:02 - Arthur VGN: orra
+11/11/2021 11:03 - Arthur VGN: usa pygame
+11/11/2021 11:03 - Arthur VGN: bom que eu ja tenho uma base nisso
+11/11/2021 11:03 - Ravel: s
+03/12/2021 16:01 - Arthur VGN: <Arquivo de mídia oculto>
+03/12/2021 16:02 - Ravel: Hahahaha
+05/02/2022 16:44 - Ravel: <Arquivo de mídia oculto>
+13/02/2022 13:46 - Arthur VGN: Ei ravel, to so esperando minha mãe terminar de pagar umas coisas pra comprar o carregador, mals pela demora
+13/02/2022 14:10 - Ravel: Rlxxx rpz
+13/02/2022 14:10 - Ravel: Tem pressa não
+13/02/2022 14:16 - Arthur VGN: Blz
+01/04/2022 18:07 - Arthur VGN: ei
+01/04/2022 18:07 - Arthur VGN: qual teu cep?
+01/04/2022 18:28 - Ravel: 58035421
+01/04/2022 18:28 - Ravel: Pq??
+01/04/2022 18:29 - Arthur VGN: mandar entregar o carregador ai
+01/04/2022 18:29 - Ravel: Oxe
+01/04/2022 18:29 - Ravel: Tu tá comprando agora e
+01/04/2022 18:29 - Ravel: ?
+01/04/2022 18:29 - Arthur VGN: to uai
+01/04/2022 18:29 - Ravel: Precisa não pow
+01/04/2022 18:29 - Arthur VGN: rlx pow
+01/04/2022 18:29 - Ravel: Se tu n achou deixa pra lá
+01/04/2022 18:29 - Arthur VGN: n fui eu quem perdi pow, deixa eu comprar
+01/04/2022 18:30 - Ravel: Oxe eu já tô com o notebook aqui no quarto
+01/04/2022 18:30 - Ravel: Kkk
+01/04/2022 18:30 - Ravel: Tirei as peças daquele já
+01/04/2022 18:30 - Arthur VGN: <Arquivo de mídia oculto>
+01/04/2022 18:31 - Arthur VGN: então vou comprar algo pra miguel kkkk
+01/04/2022 18:32 - Ravel: Kkkkk
+01/04/2022 18:32 - Ravel: Homi
+01/04/2022 18:32 - Ravel: Compre um curso
+01/04/2022 18:32 - Ravel: E vá estudar
+01/04/2022 18:32 - Ravel: Que já me paga
+01/04/2022 18:32 - Arthur VGN: kk rlx boy
+01/04/2022 18:32 - Arthur VGN: mas blz
+01/04/2022 18:32 - Arthur VGN: <Arquivo de mídia oculto>
+01/04/2022 18:33 - Ravel: Pronto
+01/04/2022 18:33 - Ravel: E eu passo os meus
+01/04/2022 18:33 - Ravel: E tá tudo certo
+01/04/2022 18:33 - Arthur VGN: Ei mas é serio msm, precisa comprar msm n? Já tava mo aperriado aki pq ja vai fazer uns 3 meses
+01/04/2022 18:49 - Ravel: <Arquivo de mídia oculto>
+01/04/2022 18:49 - Ravel: Precisa não porra
+01/04/2022 18:50 - Arthur VGN: kkkkkkkkkkk
+01/04/2022 18:50 - Arthur VGN: blz
+01/04/2022 18:50 - Arthur VGN: mals pelo estresse
+01/04/2022 18:50 - Ravel: Kkkkk
+06/04/2022 09:45 - Ravel: https://github.com/aneagoie/ztm-python-cheat-sheet
+06/04/2022 09:45 - Ravel: dps dá uma sacada
+06/04/2022 09:45 - Ravel: To estudando python tbm agora
+06/04/2022 09:46 - Ravel: da pra a gente dps ver uns projetinho ahhaha
+06/04/2022 10:16 - Arthur VGN: Hehehe eu apoio
+06/04/2022 10:17 - Arthur VGN: Vou voltar a focar em python agr
+06/04/2022 10:19 - Ravel: sim
+06/04/2022 10:19 - Ravel: to fazendo um curso aqui
+06/04/2022 10:19 - Ravel: como n sei nada
+06/04/2022 10:19 - Ravel: to começando do zero
+06/04/2022 10:20 - Arthur VGN: Eu tenho um curso de Django
+06/04/2022 10:20 - Arthur VGN: Que é um framework pra desenvolvimento web
+06/04/2022 10:20 - Arthur VGN: Vou te mandar ai
+06/04/2022 10:22 - Arthur VGN: https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/learn/lecture/4954484#overview
+06/04/2022 10:22 - Ravel: massa
+06/04/2022 10:22 - Arthur VGN: login:
+arthurvitorgn@gmail.com
+06/04/2022 10:22 - Arthur VGN: senha:
+av00784545@_
+06/04/2022 10:22 - Ravel: to focando em tentar aprender mesmo o python do zero
+06/04/2022 10:22 - Ravel: pra dps ir pra frameworks
+06/04/2022 10:22 - Arthur VGN: boa
+06/04/2022 10:22 - Arthur VGN: tais estudando por onde?
+06/04/2022 11:23 - Ravel: Udemy
+07/04/2022 18:05 - Arthur VGN: Só pra tu saber, eu reembolsei ele pq estava mto desatualizado
+07/04/2022 18:22 - Ravel: Kkk
+07/04/2022 18:22 - Ravel: Blz
+14/04/2022 21:15 - Arthur VGN: Ei slg, eu sei que tá tarde já, mas tu acha que vale a pena eu aprender docker agr?
+14/04/2022 21:58 - Ravel: Vale pow
+14/04/2022 21:58 - Ravel: Mas essa parte é só aprender a montar imagem
+14/04/2022 21:58 - Ravel: E só bixo
+14/04/2022 21:59 - Ravel: Pq a grande maioria das empresa vai cobrar isso
+14/04/2022 21:59 - Ravel: Configurar
+14/04/2022 21:59 - Ravel: Num vai precisar não
+14/04/2022 21:59 - Ravel: Rlx só durmo dps de 1h da manhã kkkk
+14/04/2022 22:00 - Arthur VGN: Osh, então eu poderia simplesmente dizer que ele é tipo um virtual box
+14/04/2022 22:00 - Arthur VGN: Pensei que seria algo muito mais complexo
+14/04/2022 22:07 - Ravel: Isso depende
+14/04/2022 22:07 - Ravel: Na grande maioria e hhahaha
+14/04/2022 22:07 - Ravel: Mas o conceito é similar
+14/04/2022 22:08 - Arthur VGN: Então tá bom
+14/04/2022 22:08 - Arthur VGN: vou procurar algum lugar pra aprender pelo menos o basico
+14/04/2022 22:08 - Ravel: Oxe
+14/04/2022 22:09 - Ravel: Bota no katakoda
+14/04/2022 22:09 - Ravel: Lá tu aprende
+14/04/2022 22:09 - Ravel: Precisa nem ter um ambiente
+14/04/2022 22:09 - Ravel: Tu faz web
+14/04/2022 22:09 - Arthur VGN: sabia nem da existencia desse site
+15/04/2022 11:03 - Ravel: Hahaha já falei
+15/04/2022 11:03 - Ravel: Cola no pai aqui
+15/04/2022 11:03 - Ravel: Que o pai sabe os caminhos
+15/04/2022 11:03 - Arthur VGN: Kkkkkkkkk
+15/04/2022 11:03 - Arthur VGN: Blz
+15/04/2022 16:44 - Arthur VGN: n sei se tu ta estudando python ainda, mas eu pedi pra italo comprar esse curso mto pica
+https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+caso tu queira o login é o msm
+15/04/2022 16:46 - Ravel: Show
+15/04/2022 16:46 - Ravel: Eu tô fazendo um em inglês
+15/04/2022 16:46 - Ravel: Mas vou olhar esse
+15/04/2022 16:46 - Arthur VGN: top tmb
+06/05/2022 19:21 - Arthur VGN: <Arquivo de mídia oculto>
+06/05/2022 19:22 - Ravel: Sim
+06/05/2022 19:22 - Ravel: Instala o docker
+06/05/2022 19:22 - Arthur VGN: já ta
+06/05/2022 19:22 - Ravel: E roda esses comandos
+06/05/2022 19:22 - Ravel: Abre um terminal e digita docker
+06/05/2022 19:25 - Arthur VGN: <Arquivo de mídia oculto>
+06/05/2022 19:25 - Ravel: Tu tem que entrar na pasta
+06/05/2022 19:26 - Ravel: Roda isso aqui
+06/05/2022 19:26 - Arthur VGN: é eu vi
+06/05/2022 19:26 - Ravel: cd docker-bigdata
+06/05/2022 19:26 - Ravel: La tu procura pra ver se tem um docker filé
+06/05/2022 19:26 - Ravel: File
+06/05/2022 19:26 - Arthur VGN: ae porra
+06/05/2022 19:26 - Arthur VGN: agr foi
+06/05/2022 19:26 - Arthur VGN: vlw
+06/05/2022 19:27 - Ravel: Kkkkkk
+06/05/2022 19:27 - Ravel: <Arquivo de mídia oculto>
+01/06/2022 19:06 - Ravel: Kkkkk jaja tua mãe pega ar
+01/06/2022 19:06 - Ravel: Kkkkk
+01/06/2022 19:06 - Arthur VGN: kakakakaka
+01/06/2022 19:06 - Arthur VGN: ela já deve ta puta
+01/06/2022 19:06 - Arthur VGN: to so escutando os audio cancelando
+01/06/2022 19:06 - Ravel: Kkkkkkkk
+01/06/2022 19:09 - Ravel: Lkkkkkk
+01/06/2022 19:09 - Ravel: Ela tá braba já
+01/06/2022 19:09 - Arthur VGN: ela ta
+01/06/2022 19:09 - Arthur VGN: heuehu
+01/06/2022 19:09 - Arthur VGN: se sair eu coloco dnv
+01/06/2022 19:09 - Ravel: Hahahahahaha vai sair do grupo kkkkkk
+01/06/2022 19:09 - Arthur VGN: saiu n
+01/06/2022 19:09 - Arthur VGN: queria que tivesse saido
+01/06/2022 19:13 - Ravel: Kkkkkk
+01/06/2022 19:13 - Ravel: Eu ia mandar isso aqui no áudio dela
+01/06/2022 19:13 - Ravel: <Arquivo de mídia oculto>
+01/06/2022 19:13 - Ravel: Kkkkkk
+01/06/2022 19:13 - Arthur VGN: kakakakakakakakakaaka
+01/06/2022 19:13 - Arthur VGN: kkkkkkkk boy pode n
+01/06/2022 19:13 - Arthur VGN: ela ia ficar com mto odioooo
+01/06/2022 19:13 - Ravel: <Arquivo de mídia oculto>
+01/06/2022 19:13 - Arthur VGN: ia geral
+01/06/2022 19:14 - Arthur VGN: ela chega ficou calada
+01/06/2022 19:14 - Arthur VGN: ta so olhando
+01/06/2022 19:14 - Ravel: Kkkkkk
+20/06/2022 08:38 - Ravel: Tu tinha falado ontem do negocio do python pra buscar
+20/06/2022 08:38 - Ravel: ele tem um metodo
+20/06/2022 08:38 - Ravel: .index()
+20/06/2022 08:38 - Ravel: da pra caçar por ai
+20/06/2022 08:38 - Ravel: amazon_cart = [
+    'notebooks',
+    'toys',
+    'sunglasses',
+    'books'
+]
+20/06/2022 08:38 - Ravel: print(amazon_cart.index("books"))
+print(amazon_cart[3])
+20/06/2022 08:38 - Ravel: sacou?
+20/06/2022 08:38 - Ravel: acho que resolve
+20/06/2022 08:44 - Ravel: aquele problema de busca
+20/06/2022 08:50 - Arthur VGN: O problema é que ele não funciona em nested lists
+20/06/2022 08:50 - Arthur VGN: Tipo
+20/06/2022 08:51 - Arthur VGN: amazon_cart = [[Computador, teste], [celular, alvo]]
+20/06/2022 08:52 - Ravel: ahh saquei
+20/06/2022 08:52 - Ravel: e que nesse caso vai ser tipo uma matriz
+20/06/2022 08:52 - Arthur VGN: Exato
+20/06/2022 08:52 - Arthur VGN: Ele retorna que não tem esse item na lista
+20/06/2022 08:52 - Arthur VGN: def NestedIndex(termo, agenda): 
+     for c in range(0, len(agenda)): #Run each list 
+         for k in range(0, len(agenda[c])): #Run each term in the lisk 'c' 
+             if agenda[c][k] == termo: #Check if the term is the specified term 
+                 ListPos, TermPos = c, k 
+                 return ListPos, TermPos 
+  
+             #Utilization example, is this the most efficient way to do this? Offcourse no, but it will help 
+             #nums = NestedIndex(teste(termo, agenda)) 
+             #print(lista[nums[0]][nums[1]])
+20/06/2022 08:52 - Ravel: nesse caso tem que ir por algoritmos de busca mesmo
+20/06/2022 08:52 - Arthur VGN: Aí eu fiz isso
+20/06/2022 08:52 - Arthur VGN: Funciona perfeitamente
+20/06/2022 08:53 - Ravel: isso, nesse caso ai tu buscou se o ListPos e TermPos é igual ao par de itens c e k
+20/06/2022 08:53 - Ravel: né?
+20/06/2022 08:54 - Arthur VGN: Na verdade ele pra armazenar a posição dele
+20/06/2022 08:54 - Arthur VGN: Em qual lista
+20/06/2022 08:57 - Arthur VGN: Esse primeiro for ele passa por todas as listas que foram recebidas pelo parâmetro "agenda", e o segundo for passa por cada termo dentro da lista, logo em seguida o if verifica se o termo é igual ao que está sendo procurado
+20/06/2022 08:57 - Ravel: tem uma sacada que dá pra usar o index
+20/06/2022 08:57 - Ravel: <Arquivo de mídia oculto>
+20/06/2022 09:01 - Ravel: isso
+20/06/2022 09:01 - Ravel: reduz o tempo
+20/06/2022 09:01 - Ravel: pq esse for e for
+20/06/2022 09:01 - Ravel: transforma teu algoritmo com uma complexidade ciclomática n²
+20/06/2022 09:02 - Arthur VGN: Kramba
+20/06/2022 09:02 - Arthur VGN: Eu nem cheguei a pesquisar sobre isso
+20/06/2022 09:03 - Arthur VGN: Eu vou fazer um teste de desempenho entre esse dois, só pra ver a diferença
+20/06/2022 09:05 - Ravel: isso
+20/06/2022 09:05 - Ravel: pq dps tu dá uma olhada nos algoritmos do Big O notation
+20/06/2022 09:05 - Ravel: mas esse ponto é bem avançado
+20/06/2022 09:05 - Ravel: não precisa se preocupar demais agora
+20/06/2022 09:06 - Ravel: mas só dar uma sacada em com diminuir esse time de execução
+20/06/2022 09:12 - Arthur VGN: Qnd eu fiz esse código eu n consegui pensar em nada pra melhorar a performance
+20/06/2022 09:12 - Ravel: mas nem precisa
+20/06/2022 09:13 - Ravel: como te falei
+20/06/2022 09:13 - Ravel: faz funcionar
+20/06/2022 09:13 - Ravel: dps pensa em melhorar
+20/06/2022 09:13 - Arthur VGN: Realmente
+20/06/2022 09:13 - Arthur VGN: Eu teria que melhorar ele pq na teoria ele vai buscar em uma base de dados
+20/06/2022 09:13 - Arthur VGN: <Arquivo de mídia oculto>
+20/06/2022 09:14 - Ravel: ahhh saquei
+20/06/2022 09:14 - Ravel: oxe com base melhor ainda
+20/06/2022 09:14 - Ravel: faz um conceito de repository isolado
+20/06/2022 09:14 - Ravel: uma classe repository
+20/06/2022 09:15 - Ravel: que faz todos os metodos de banco, tipo select, delete, find, findById
+20/06/2022 09:15 - Ravel: ai tu sempre que precisar
+20/06/2022 09:15 - Ravel: tu chama a classe .select() xpto
+20/06/2022 09:15 - Arthur VGN: Simmm
+20/06/2022 09:15 - Arthur VGN: Eu tava pensando em fazer isso
+20/06/2022 09:15 - Ravel: ai teu resultado vai ser uma lista normal
+20/06/2022 09:15 - Arthur VGN: Eu já tenho uma ideia
+20/06/2022 09:15 - Ravel: um array, um json
+20/06/2022 09:15 - Ravel: tanto faz
+20/06/2022 09:16 - Ravel: pq facilita tua manipulação em 100%
+20/06/2022 09:16 - Arthur VGN: Eu ainda n sei mexer em json
+20/06/2022 09:16 - Arthur VGN: Eu vou ver se eu aprendo
+20/06/2022 09:16 - Arthur VGN: Pq é mto bom
+20/06/2022 09:16 - Ravel: vai em array msm por enquanto
+20/06/2022 09:17 - Ravel: so pra tu ir testando
+20/06/2022 09:17 - Arthur VGN: Eu manjo um pouco
+20/06/2022 09:17 - Arthur VGN: Na realidade um array é quase uma lista
+20/06/2022 09:18 - Ravel: isso
+20/06/2022 09:18 - Arthur VGN: É uma variável com vários valores dentros
+20/06/2022 09:18 - Ravel: é uma lista "não-encadeada"
+20/06/2022 09:18 - Ravel: vc só vai ter bronca se precisar ordenar
+20/06/2022 09:18 - Ravel: mas nesse momento nem te preocupa com isso
+20/06/2022 09:19 - Arthur VGN: Tipo, tem MTA função built-in no python que ordena array
+20/06/2022 09:19 - Arthur VGN: Mas eu acho que sei fazer na mão
+20/06/2022 09:19 - Ravel: não precisa reinventar a roda
+20/06/2022 09:19 - Ravel: os metodos tao ai pra ser usados msm
+20/06/2022 09:19 - Ravel: kkkk
+20/06/2022 09:19 - Ravel: entende como faz
+20/06/2022 09:20 - Arthur VGN: Realmente kkkk, eu vejo uma glr ordenando lista com for
+20/06/2022 09:20 - Arthur VGN: Aí eu fico pensando, "pq boy, já tem tanta ferramenta que facilita"
+20/06/2022 09:22 - Ravel: sim
+20/06/2022 09:22 - Ravel: kkkk
+20/06/2022 09:29 - Arthur VGN: <Arquivo de mídia oculto>
+20/06/2022 09:44 - Ravel: blz
+20/06/2022 09:44 - Ravel: olho já
+20/06/2022 10:46 - Ravel: olha
+20/06/2022 10:46 - Ravel: vou mandar umas melhorias bestas que eu fiz aqui
+20/06/2022 10:46 - Ravel: visse
+20/06/2022 10:46 - Arthur VGN: Krl
+20/06/2022 10:46 - Arthur VGN: Já?
+20/06/2022 10:46 - Ravel: s
+20/06/2022 10:46 - Ravel: peguei 10 mins aqui
+20/06/2022 10:46 - Ravel: fiz umas alterações rapidas
+20/06/2022 10:46 - Ravel: dps mando mais
+20/06/2022 10:47 - Arthur VGN: ta
+20/06/2022 10:47 - Arthur VGN: Tem mta gambiarra no meio pq eu n consegui gostar de css n
+20/06/2022 10:47 - Arthur VGN: então foi um pouco mais complexo de arrumar
+20/06/2022 11:29 - Ravel: Abri um pull request ai pra tu
+20/06/2022 11:29 - Ravel: criei a branch improves
+20/06/2022 11:29 - Ravel: dá uma sacada e sapeca ai
+20/06/2022 11:29 - Ravel: ai dps tu manda ir pra o git hub pages
+20/06/2022 11:29 - Ravel: se tu achou que ficou melhor
+20/06/2022 11:29 - Ravel: ai dps é só criar mais sections e tals
+20/06/2022 11:53 - Arthur VGN: Gostei
+20/06/2022 11:53 - Arthur VGN: Eu tenho que aprender esses conceitos de before e after
+20/06/2022 11:54 - Arthur VGN: <Arquivo de mídia oculto>
+20/06/2022 12:04 - Ravel: blz
+20/06/2022 12:04 - Ravel: mais tarde se tiver sem o que fazer aqui
+20/06/2022 12:04 - Ravel: eu desenrolo esse layout pr atu
+20/06/2022 12:06 - Arthur VGN: Rlx, precisa se preocupar mto com isso n
+20/06/2022 13:34 - Ravel: nada
+20/06/2022 13:35 - Ravel: so pra revisar msm
+20/06/2022 13:35 - Ravel: kkk
+22/06/2022 10:39 - Ravel: hoje a tarde eu pego a parada la pra fazer
+22/06/2022 10:39 - Ravel: Tava meio puto aqui com uns ppt que tenho que fazer
+22/06/2022 10:39 - Ravel: criei uma app que faz pra mim kkkkkkkkkkk
+22/06/2022 10:45 - Arthur VGN: Kkkkkkkkk
+22/06/2022 10:45 - Arthur VGN: Blzz
+22/06/2022 10:45 - Arthur VGN: Tava mexendo no MySQL
+22/06/2022 10:45 - Arthur VGN: To fazendo uns testes mto louco
+22/06/2022 11:19 - Ravel: ta fazendo teste de que
+22/06/2022 11:19 - Ravel: ?
+22/06/2022 11:24 - Arthur VGN: Na realidade eu to curioso pra saber se o mysql tem limite de inputs por segundo
+22/06/2022 11:24 - Arthur VGN: ao que parece n
+22/06/2022 11:25 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:25 - Ravel: tem
+22/06/2022 11:25 - Ravel: ele topa
+22/06/2022 11:26 - Ravel: mas é uma quantidade muito absurda
+22/06/2022 11:26 - Arthur VGN: eu imaginei
+22/06/2022 11:26 - Ravel: Ja tive que migrar de db por conta disso
+22/06/2022 11:26 - Ravel: A gente migrou pra postgres uma app
+22/06/2022 11:26 - Arthur VGN: provavelmente é algo que meu computador n consegue gerar
+22/06/2022 11:26 - Ravel: por conta de lock
+22/06/2022 11:26 - Ravel: sim
+22/06/2022 11:26 - Ravel: acho que era mais de 2M de inputs
+22/06/2022 11:26 - Ravel: mas era uma parada de pagamentos
+22/06/2022 11:27 - Arthur VGN: kramba
+22/06/2022 11:27 - Arthur VGN: imaginei que seria algo do tipo
+22/06/2022 11:27 - Ravel: Era da secretaria de receita
+22/06/2022 11:27 - Ravel: que processava Nota fiscal
+22/06/2022 11:27 - Arthur VGN: pra atingir esse nivel tem que ser algo mto constante
+22/06/2022 11:27 - Arthur VGN: e que a grande massa usa
+22/06/2022 11:27 - Arthur VGN: e agr to pensando em como formatar os numeros
+22/06/2022 11:27 - Arthur VGN: mas acho que n é preciso, seria algo mais visual pra ficar menos feio de ver
+22/06/2022 11:29 - Ravel: isso ai tu vai precisar muito mais pra frente
+22/06/2022 11:29 - Ravel: pra processar uma massa de arquivo dessa
+22/06/2022 11:29 - Ravel: Foca no necessário por hora
+22/06/2022 11:29 - Ravel: rrsrsrs
+22/06/2022 11:29 - Arthur VGN: realmente
+22/06/2022 11:30 - Arthur VGN: Pra esse projeto eu tava pensando em usar o numero de telefone como pk
+22/06/2022 11:30 - Arthur VGN: qq tu acha?
+22/06/2022 11:30 - Ravel: Não aconselho
+22/06/2022 11:31 - Arthur VGN: Eu pensei no numero pq tem que ser algo que uma pessoa comum n perca
+22/06/2022 11:31 - Arthur VGN: Acho meio dificil gerar sla, um token e mandar uma pessoa comum guardar
+22/06/2022 11:31 - Ravel: Se você vai usar algo pra ser pk
+22/06/2022 11:32 - Ravel: vc pode usar o conceito de UUID
+22/06/2022 11:32 - Ravel: pq ele gera um pk unico sempre
+22/06/2022 11:32 - Ravel: pq a pessoa comum nem se preocupa com isso
+22/06/2022 11:33 - Arthur VGN: Faz sentido
+22/06/2022 11:33 - Arthur VGN: agr como implementar isso no whats
+22/06/2022 11:33 - Ravel: e a tua app mesmo gera
+22/06/2022 11:33 - Ravel: não precisa
+22/06/2022 11:33 - Ravel: implementar no whats
+22/06/2022 11:33 - Ravel: quando for fazer o insert que tu gera
+22/06/2022 11:34 - Ravel: Pq tipo tu quer fazer o que de fato
+22/06/2022 11:34 - Ravel: rsrsrs
+22/06/2022 11:34 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:35 - Arthur VGN: tava procurando o arquivo pra mandar kk
+22/06/2022 11:35 - Ravel: da
+22/06/2022 11:35 - Ravel: saquei
+22/06/2022 11:35 - Arthur VGN: Por isso que eu queria usar o numero como pk
+22/06/2022 11:35 - Ravel: tipo ai pelo que eu entendi tu tem um usuário e um atendimento
+22/06/2022 11:35 - Ravel: certo?
+22/06/2022 11:35 - Arthur VGN: uma arvore de interações
+22/06/2022 11:35 - Arthur VGN: que nem qnd vc manda msg pro bot do bradesco
+22/06/2022 11:36 - Arthur VGN: no whats
+22/06/2022 11:36 - Ravel: sei
+22/06/2022 11:36 - Arthur VGN: a ideia é fazer um daquele
+22/06/2022 11:36 - Ravel: Nesse caso tu tem que começar a entender orientação de objetos
+22/06/2022 11:36 - Ravel: Pq nesse teu caso tu tem duas entidades de cara
+22/06/2022 11:36 - Ravel: Que é usuário e Atendimento
+22/06/2022 11:37 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:37 - Arthur VGN: tava enrolando
+22/06/2022 11:37 - Arthur VGN: eu comecei
+22/06/2022 11:37 - Arthur VGN: ai fui fazer o portfolio e parei
+22/06/2022 11:37 - Arthur VGN: e agr to nisso
+22/06/2022 11:38 - Ravel: <Arquivo de mídia oculto>
+22/06/2022 11:39 - Arthur VGN: saquei
+22/06/2022 11:39 - Arthur VGN: agr to pensando na questão dos horarios
+22/06/2022 11:39 - Arthur VGN: acho que pra primeira versão é o essencial
+22/06/2022 11:39 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:40 - Ravel: <Arquivo de mídia oculto>
+22/06/2022 11:40 - Arthur VGN: issooo
+22/06/2022 11:41 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:41 - Ravel: <Arquivo de mídia oculto>
+22/06/2022 11:42 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:42 - Ravel: <Arquivo de mídia oculto>
+22/06/2022 11:43 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:44 - Ravel: <Arquivo de mídia oculto>
+22/06/2022 11:44 - Ravel: Isso
+22/06/2022 11:44 - Ravel: Vc tá salvando algo que nem sabe o que é
+22/06/2022 11:44 - Ravel: Que provavelmente vai mudar
+22/06/2022 11:44 - Ravel: E tipo tudo que vc tá fazendo agora
+22/06/2022 11:45 - Ravel: Vai pro saco
+22/06/2022 11:45 - Ravel: Hahahah
+22/06/2022 11:45 - Arthur VGN: <Arquivo de mídia oculto>
+22/06/2022 11:46 - Arthur VGN: Como é a primeira versão n precisa ter mtas funções n
+22/06/2022 11:46 - Arthur VGN: Só uma beta
+22/06/2022 11:46 - Arthur VGN: alpha na real
+22/06/2022 11:48 - Ravel: <Arquivo de mídia oculto>
+22/06/2022 11:49 - Arthur VGN: atomicidade
+22/06/2022 11:49 - Arthur VGN: considero o mais chato
+22/06/2022 11:52 - Ravel: Mas ti e isso kkkk
+22/06/2022 11:53 - Ravel: Dividir pra conquistar
+22/06/2022 11:53 - Ravel: <Arquivo de mídia oculto>
