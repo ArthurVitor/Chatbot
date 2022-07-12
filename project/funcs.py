@@ -7,12 +7,15 @@ mydb = mysql.connector.connect(
 )
 mycursor = mydb.cursor()
 
+
 def CancelAppointment(number):
     mycursor.execute(f'''
-    delete from toconfirm 
-    where Number = {number}
+    Delete From Clients 
+    Where Number = {number}
     ''')
 
-def ConfirmAppointment(number):
-    #Criar algo que vai ler as informações da pessoa com o número e colocar na Table "Confirmed"
-    pass
+
+def ConfirmAppointment(number, situation='To Confirm'):
+    mycursor.execute(f'''
+    Update Clients Set Situation='{situation}' Where Number={number};
+    ''')
