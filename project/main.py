@@ -10,4 +10,11 @@ mydb = mysql.connector.connect(
 _rehours = []
 mycursor = mydb.cursor()
 
-funcs.ConfirmAppointment('83987806698')
+funcs.ConfirmAppointment(83987806698, 'Confirmed')
+
+# mycursor.execute('''
+# INSERT INTO clients
+# (Name, Number, Hour)
+# values
+# ('Arthur', 83987806698, 091530)
+# ''')
