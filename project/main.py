@@ -1,20 +1,6 @@
-import mysql.connector, funcs
+import funcs, faker
 
-mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    passwd="",
-    database="chatbot"
-)
+fake = faker.Faker()
 
-_rehours = []
-mycursor = mydb.cursor()
-
-funcs.ConfirmAppointment(83987806698, 'Confirmed')
-
-# mycursor.execute('''
-# INSERT INTO clients
-# (Name, Number, Hour)
-# values
-# ('Arthur', 83987806698, 091530)
-# ''')
+for c in range(100):
+    funcs.add_client(fake.name(), funcs.gera_numero(), funcs.gera_hora())
