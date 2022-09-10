@@ -30,6 +30,13 @@ def add_client(name, number, hour, situation='To confirm'):
     ''')
 
 
+def show_clients():
+    mycursor.execute("SELECT * FROM clients")
+    my_result = mycursor.fetchall()
+    for c in my_result:
+        print(c)
+
+
 def gera_numero():
     num = randint(11111111111, 99999999999)
     return num
